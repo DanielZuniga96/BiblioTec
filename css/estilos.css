@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.wrap-content{
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.op1{
+    padding-left: 40px;
+}
+
+.boton{
+    background-color: #7a0909;
+    color: rgb(255, 255, 255);
+    width: 200px;
+    height: 200px;
+    display: table;
+}
+.boton > p{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.formulario{
+    align-content: flex-start;
+}
+
+#form{
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    height: auto;
+}
+.formulario > form{
+  margin: 40px;
+  display: grid;
+}
+
+.formulario > form > .row{
+  display: inline-flex;
+}
+
+.form-horizontal .form-group{
+   margin-right: 30px;
+}
