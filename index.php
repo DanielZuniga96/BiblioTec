@@ -22,7 +22,7 @@
 
 		<div class="banner">
 				<div class="title">
-					<div class="tittle-container"><h1>BiblioTec changed<small><strong> Virtual</strong></small></h1></div> <br>
+					<div class="tittle-container"><h1>BiblioTec changed 02<small><strong> Virtual</strong></small></h1></div> <br>
 				</div><!--tittle-->
 			</div><!--banner-->
 <div class="row">
